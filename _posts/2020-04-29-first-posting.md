@@ -8,3 +8,5 @@ toc: false
 ---
 
 ## 첫 포스팅
+
+[^footnote]: The footnote source.
